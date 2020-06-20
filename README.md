@@ -1,4 +1,4 @@
-###Budget Tracker
+## Budget Tracker
 
 [![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
@@ -11,7 +11,7 @@
 
 By Araya Nawrath 
 
-###Description
+## Description
 
 PWA Homework: Online/Offline Budget Trackers
 Add functionality to our existing Budget Tracker application to allow for offline access and functionality.
