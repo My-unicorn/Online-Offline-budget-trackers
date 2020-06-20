@@ -30,7 +30,7 @@ Offline Functionality:
 
 Offline entries should be added to tracker.
 
-###User Story
+## User Story
 
 AS AN avid traveller
 I WANT to be able to track my withdrawals and deposits with or without a data/internet connection
@@ -40,7 +40,7 @@ SO THAT my account balance is accurate when I am traveling
 
 --Lighthouse
 
-<img src = "public/assets/images/Screenshot(60).png"  style ="width: 100px">
+<img src = "images"  style ="width: 100px">
 
 
 --Lazy Loading
